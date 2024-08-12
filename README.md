@@ -1,4 +1,4 @@
-# Fertilizer prediction using machine learning (ML)
+# Fertilizer Prediction using Machine Learning (ML)
 
 ## Overview
 
@@ -55,6 +55,6 @@ Python: The primary programming language for the entire project, used for data a
 
 NumPy: NumPy is a fundamental Python library for numerical computations, providing support for arrays and matrices. It is essential for data manipulation and mathematical operations in the recommendation system.
 
-pandas: The pandas library is used for data manipulation and analysis, allowing efficient handling of structured data such as the dataset containing agricultural information.
+Pandas: The pandas library is used for data manipulation and analysis, allowing efficient handling of structured data such as the dataset containing agricultural information.
 
 Matplotlib: Matplotlib is a popular data visualization library in Python. It is used to create various types of plots and charts to visualize data trends and model performance.
