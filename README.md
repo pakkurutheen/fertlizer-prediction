@@ -1,6 +1,6 @@
-# fertlizer-prediction# Fertilizer_Recommendation_System
+# Fertlizer Prediction System
 
-This project is a Fertilizer Recommendation System that assists farmers in selecting the appropriate fertilizers for their crops. It takes into account various environmental and soil factors to make precise fertilizer recommendations, ultimately improving crop yield and reducing the cost of unnecessary fertilizer use
+This project is a Fertilizer prediction System that assists farmers in selecting the appropriate fertilizers for their crops. It takes into account various environmental and soil factors to make precise fertilizer recommendations, ultimately improving crop yield and reducing the cost of unnecessary fertilizer use
 
 # Fertilizer Recommendation:
 Fertilizer recommendation is the process of suggesting the most suitable types and quantities of fertilizers based on factors such as soil composition, temperature, humidity, moisture, and crop type. This project aims to automate this process for the benefit of farmers.
@@ -25,7 +25,7 @@ To run the Flask application, make sure you have Flask installed and execute the
 
 # Algorithm Used
 
-The fertilizer recommendation system employs several machine learning algorithms to analyze the dataset and make personalized fertilizer recommendations based on specific crops and environmental conditions. The following algorithms were used:
+The fertilizer prediction system employs several machine learning algorithms to analyze the dataset and make personalized fertilizer recommendations based on specific crops and environmental conditions. The following algorithms were used:
 
 Logistic Regression: Logistic regression is used to predict categorical outcomes, and it has been applied here to classify the suitability of fertilizer types for different crops and conditions.
 
@@ -68,8 +68,4 @@ pandas: The pandas library is used for data manipulation and analysis, allowing 
 
 Matplotlib: Matplotlib is a popular data visualization library in Python. It is used to create various types of plots and charts to visualize data trends and model performance.
 
-Seaborn: Seaborn is built on top of Matplotlib and provides a higher-level interface for creating attractive and informative statistical graphics. It enhances the aesthetics of data visualizations in the recommendation system.
 
-Flask: Flask is a Python web framework used to develop the user interface for the Fertilizer Recommendation System. It handles web requests and serves recommendations to users through a web-based interface
-![Screenshot 2023-09-18 195920](https://github.com/krushna27/Fertilizer_Recommendation_System/assets/76439755/da14fef8-0b3e-44a8-9790-71cb70d4db78)
-![Screenshot 2023-09-18 195853](https://github.com/krushna27/Fertilizer_Recommendation_System/assets/76439755/66d5bb4f-0a97-4f75-a636-30762a6ebfce)
